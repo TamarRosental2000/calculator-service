@@ -1,6 +1,7 @@
 # Calculator Server
 
 The Calculator Server is an application designed to perform various types of operations, including arithmetic and string manipulations. This README provides instructions on how to set up and activate the project.
+This project used local cache file in order to improve database performance 
 
 ## Getting Started
 
